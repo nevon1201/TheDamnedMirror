@@ -624,8 +624,11 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     Collab: 0
-    UNet: 1
+    ErrorHub: 0
+    Hub: 0
+    UNet: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -638,10 +641,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 1db9c9ad-3e30-44d3-9be5-27b1769f2dc7
+  cloudProjectId: 0f3743cb-fce4-4e28-a61c-b9c27f091436
   framebufferDepthMemorylessMode: 0
-  projectName: TheDamnedMirror
-  organizationId: csehgergelyviktor
+  projectName: TheDamnedMirror (1)
+  organizationId: theflamingogames
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
